@@ -1,4 +1,0 @@
-Chat GPT API KEY : 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
-
-=> Give user 1 free download on signup in return for creating an account and verifying.
-    - User : {email, fname, lname, purchases}
